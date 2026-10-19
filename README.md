@@ -19,7 +19,7 @@ Complete the implementation of the BankAccount Abstract Data Type (ADT) and clie
 
 ---
 
-### Part 1: Header File ([`BankAccount.h`](\CODING\BankAccount.h))   
+### Part 1: Header File (`BankAccount.h`)   
 Fill in access specifiers and constant function qualifiers for the class definition.   
 
 ```
@@ -65,7 +65,7 @@ public:
 
 ---
 
-### Part 2: Implementation File ([`BankAccount.cpp`](\CODING\BankAccount.cpp))  
+### Part 2: Implementation File (`BankAccount.cpp`)  
 Complete constructor initializations, scope resolutions, and logic implementations.   
 
 ```
@@ -136,7 +136,7 @@ void BankAccount::display() const {
 
 ---
 
-### Part 3: Client Application ([`main.cpp`](\CODING\main.cpp)) 
+### Part 3: Client Application (`main.cpp`) 
 Complete function signature for pass-by-const-reference and array operations.   
 
 ```
