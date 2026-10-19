@@ -1,11 +1,25 @@
 ### Lab Exercise: Bank Account ADT Implementation (Complete Answers)
 
-**Instructions**   
+<img width="400" alt="logo-FC-website-header" src="https://github.com/user-attachments/assets/d7ac3e9e-8322-47db-bf9a-658c928347c3" />
+
+***Student Details:***
+| Information    | Student Details |
+| -------- | ------- |
+| **Student Name**  | `MUHAMMAD NAWFAL BIN MOHD SHAIFUDDIN`    |
+| **Matric No.** | `A25CS0109`     |
+| **Course**    | `SCSE2103: DATA STRUCTURE AND ALGORITHM`    |
+| **Section**    | `SECTION 03`    |
+| **Lecturer Name**    | `DR. MUHAMMAD KHATIBSYARBINI`    |
+| **Final Submission Date**    | `FRIDAY, 23 OCTOBER 2026, 12:00 AM`    |
+
+---
+
+### Instructions   
 Complete the implementation of the BankAccount Abstract Data Type (ADT) and client application below. Fill in every missing code section marked with `/* TODO 1 */` through `/* TODO 11 */`.   
 
 ---
 
-### Part 1: Header File (`BankAccount.h`)   
+### Part 1: Header File ([`BankAccount.h`](\CODING\BankAccount.h))   
 Fill in access specifiers and constant function qualifiers for the class definition.   
 
 ```
@@ -51,7 +65,7 @@ public:
 
 ---
 
-### Part 2: Implementation File (`BankAccount.cpp`)  
+### Part 2: Implementation File ([`BankAccount.cpp`](\CODING\BankAccount.cpp))  
 Complete constructor initializations, scope resolutions, and logic implementations.   
 
 ```
@@ -122,7 +136,7 @@ void BankAccount::display() const {
 
 ---
 
-### Part 3: Client Application (`main.cpp`) 
+### Part 3: Client Application ([`main.cpp`](\CODING\main.cpp)) 
 Complete function signature for pass-by-const-reference and array operations.   
 
 ```
