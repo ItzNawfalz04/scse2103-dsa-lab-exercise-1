@@ -1,6 +1,6 @@
 ### Lab Exercise: Bank Account ADT Implementation (Complete Answers)
 
-<img width="400" alt="logo-FC-website-header" src="https://github.com/user-attachments/assets/d7ac3e9e-8322-47db-bf9a-658c928347c3" />
+<img width="350" alt="logo-FC-website-header" src="https://github.com/user-attachments/assets/d7ac3e9e-8322-47db-bf9a-658c928347c3" />
 
 ***Student Details:***
 | Information    | Student Details |
